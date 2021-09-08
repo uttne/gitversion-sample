@@ -1,8 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <FileVersion>0.1.0.0</FileVersion>
+    <InformationalVersion>0.1.0-hoge.1+1.Branch.feature-hoge.Sha.5a80ee73a0a5dfbaafdd9146e03d1be446a13365</InformationalVersion>
+    <Version>0.1.0-hoge0001</Version>
   </PropertyGroup>
-
 </Project>
