@@ -4,7 +4,7 @@
     <TargetFramework>net5.0</TargetFramework>
     <AssemblyVersion>0.2.0.0</AssemblyVersion>
     <FileVersion>0.2.0.0</FileVersion>
-    <InformationalVersion>0.2.0+5.Branch.main.Sha.9aa8557e777f4b27907a7a70c215e683048731cd</InformationalVersion>
-    <Version>0.2.0</Version>
+    <InformationalVersion>0.2.0-hoge.1+6.Branch.feature-hoge.Sha.67ea6116361043a9b301e9f27a82682a0f88c7e1</InformationalVersion>
+    <Version>0.2.0-hoge0001</Version>
   </PropertyGroup>
 </Project>
